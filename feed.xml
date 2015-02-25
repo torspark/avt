@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Sand Volleyball Training</title>
-  <subtitle>in Austin, TX</subtitle>
-  <id>http://sandvolleyballtraining.com</id>
-  <link href="http://sandvolleyballtraining.com"/>
-  <link href="http://sandvolleyballtraining.com/feed.xml" rel="self"/>
+  <title>Austin Volleyball Training</title>
+  <subtitle>Beach &amp; Indoor Volleyball Training in Austin, TX</subtitle>
+  <id>http://austinvolleyballtraining.com</id>
+  <link href="http://austinvolleyballtraining.com"/>
+  <link href="http://austinvolleyballtraining.com/feed.xml" rel="self"/>
   <author>
     <name>Chris Olds</name>
   </author>
